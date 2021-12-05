@@ -18,3 +18,4 @@ while gb_count < 2:
         gb_count += 1
 
 print("LATER SKATER!")
+print("pussyklot")
